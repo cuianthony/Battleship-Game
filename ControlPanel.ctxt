@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ControlPanel()
+comment1.params=
+comment1.target=ShipType\ getSelectedShip()
+comment2.params=
+comment2.target=int\ getDirection()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=void\ setOutOfRange()
+comment5.params=
+comment5.target=void\ setOverlap()
+comment6.params=numberShips
+comment6.target=void\ shipDeployed(int)
+comment7.params=shotsHit\ shotsFired
+comment7.target=void\ updateShots(int,\ int)
+comment8.params=player
+comment8.target=void\ setPlayer(GridPanel)
+comment9.params=computer
+comment9.target=void\ setComputer(GridPanel)
+numComments=10
